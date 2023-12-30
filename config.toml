@@ -1,0 +1,44 @@
+baseURL = 'hitsujibodo.jikemati.com'
+languageCode = 'ja-ja'
+title = '牡羊座のボードゲーム日記'
+paginate = '5'
+theme = 'PaperMod'
+mainSections = ["posts"]
+
+# GitHub Pages で公開するために必要
+publishDir = "docs"
+canonifyurls = true
+
+googleAnalytics = "G-08DYLGJ1SH"
+
+[params]
+  # You can use Markdown syntax for urls [text](//url.to/source)
+  # To create multi-line text in strings use the """example Text""" format
+  #
+  # All icons using Fontawesome's icon font. Look at fontawesome.io/icons
+  # for more icons. The icons are represented by their corresponding
+  # CSS class.
+
+  # Provide your metadata here.
+  name = "masayo"
+  # description = "ボードゲームに関するプレイ記録や、考察などを掲載していきます。 ボードゲームが少しでも楽しくなるように ボードゲームの魅力をお知らせしたいと思います。"
+
+  # Link custom assets relative to /static
+  custom_css = []
+  custom_js  = []
+  favicon    = "favicon.ico"
+
+# toml config document page is 
+# https://gohugo.io/getting-started/configuration/
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "tags/"
+weight = 20

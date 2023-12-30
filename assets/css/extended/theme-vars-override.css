@@ -1,0 +1,25 @@
+.dark {
+    --theme: #244;
+}
+
+.post-title {
+    font-family: 'Zen Maru Gothic', serif;
+}
+
+.post-content {
+    font-family: sans-serif;
+}
+
+.logo {
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+.entry-header {
+    font-family: 'Zen Maru Gothic', serif;
+}
+
+.entry-cover img {
+    border-radius: unset;
+}
+
+/* https://github.com/adityatelange/hugo-PaperMod/discussions/645 */

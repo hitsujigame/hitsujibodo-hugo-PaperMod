@@ -1,4 +1,4 @@
-baseURL = 'hitsujibodo.jikemati.com'
+baseURL = 'https://hitsujibodo.jikemati.com/'
 languageCode = 'ja-ja'
 title = '牡羊座のボードゲーム日記'
 paginate = '5'

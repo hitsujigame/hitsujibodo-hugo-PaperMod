@@ -15,7 +15,7 @@ UseHugoToc: true
 
 ## コンパクトな脱出ゲーム　そこそこなボリューム感で良い
 
-![タイトル](./images/deckscape1.jpg)
+![タイトル](/images/deckscape1.jpg)
 
 箱の中にはカードが６０まい入っており、とってもシンプル！
 
@@ -31,7 +31,7 @@ UseHugoToc: true
 
 謎のボリューム的には１〜２人がベストのように感じる。
 
-![盤面](./images/deckscape2.jpg)
+![盤面](/images/deckscape2.jpg)
 
 **部屋に残された謎をとき、脱出しよう。**
 

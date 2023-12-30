@@ -15,7 +15,7 @@ UseHugoToc: true
 
 ## 文明発展！そこにロマンがある。ミニチュア素敵
 
-![タイトル](./images/tapestry1.jpg)
+![タイトル](/images/tapestry1.jpg)
 
 火の時代から始まり、文明を築き上げる。
 
@@ -31,7 +31,7 @@ UseHugoToc: true
 
 ルールはそこまで難しくないが、悩ましい。楽しい。
 
-![ゲーム板](./images/tapestry2.jpg)
+![ゲーム板](/images/tapestry2.jpg)
 
 **きれいなアートワーク、シンプルでそこがいい**
 
@@ -49,7 +49,7 @@ UseHugoToc: true
 
 それがタペストリー
 
-![プレイヤーボード](./images/tapestry3.jpg)
+![プレイヤーボード](/images/tapestry3.jpg)
 
 **自分の手元には、首都シート、収入シート、文明シートとでかいし多い**
 
@@ -91,7 +91,7 @@ https://arclightgames.jp/wp-content/uploads/2022/04/Tapestry_Civilization_Adjust
 
 トークンをずらして、４つの分野のレベルを上げていくよ。
 
-![選ばれしもの](./images/tapestry4.jpg)
+![選ばれしもの](/images/tapestry4.jpg)
 
 **夫婦で戦ってみるよ。選ばれしもの　対　先触れ**
 
@@ -109,7 +109,7 @@ https://arclightgames.jp/wp-content/uploads/2022/04/Tapestry_Civilization_Adjust
 
 強すぎるので１５点マイナスから始める（修正でなくなってましたね。）　
 
-![自分の手元結果](./images/tapestry5.jpg)
+![自分の手元結果](/images/tapestry5.jpg)
 
 探求と通信を上げまくった。特に探求を極めようとした。
 
@@ -119,7 +119,7 @@ https://arclightgames.jp/wp-content/uploads/2022/04/Tapestry_Civilization_Adjust
 
 パズルがむずい。世界遺産ははみ出しておいて良いが、もっと上手に置けるようにしていきたい。
 
-![相手の手元結果](./images/tapestry6.jpg)
+![相手の手元結果](/images/tapestry6.jpg)
 
 対する妻は先触れの能力で４つの錦旗カードをプレイしてるのが強い。
 
@@ -133,7 +133,7 @@ https://arclightgames.jp/wp-content/uploads/2022/04/Tapestry_Civilization_Adjust
 
 さぁ結果はどうなった。
 
-![最終結果](./images/tapestry7.jpg)
+![最終結果](/images/tapestry7.jpg)
 
 １５３対１５５で負け。
 

@@ -15,7 +15,7 @@ UseHugoToc: true
 
 ## アムステルダム！二人プレイ！！
 
-![タイトル](./images/amsterdamp1.jpg)
+![タイトル](/images/amsterdamp1.jpg)
 
 **オランダの首都アムステルダム**
 
@@ -27,7 +27,7 @@ UseHugoToc: true
 
 **準備**
 
-![アムステルダムボード](./images/amsterdamp2.jpg)
+![アムステルダムボード](/images/amsterdamp2.jpg)
 
 バッグに商品を入れて、ランダムに街においていくぞ！
 
@@ -43,7 +43,7 @@ UseHugoToc: true
 
 **リソース置き場やカード置き場**
 
-![リソース](./images/amsterdamp3.jpg)
+![リソース](/images/amsterdamp3.jpg)
 
 それぞれの色の家にサイコロやキューブを起き、ペナルティトークン、コインを置いていきます。
 
@@ -55,7 +55,7 @@ UseHugoToc: true
 
 **プレイヤータイル**
 
-![プレイヤータイル](./images/amsterdamp4.jpg)
+![プレイヤータイル](/images/amsterdamp4.jpg)
 
 最後にプレイヤータイル、４色から各自１色を選び、それぞれの色のセットを貰います。
 
@@ -67,7 +67,7 @@ UseHugoToc: true
 
 **ラウンド１、カードの活性化アクション**
 
-![ラウンド１](./images/amsterdamp5.jpg)
+![ラウンド１](/images/amsterdamp5.jpg)
 
 ラウンド１、カードをアクティブ化するぞ！リソースを払って、セントラル・ステーションを下から上に上げる！
 
@@ -75,7 +75,7 @@ UseHugoToc: true
 
 **ラウンド２、商品ゲットアクション**
 
-![ラウンド２](./images/amsterdamp6.jpg)
+![ラウンド２](/images/amsterdamp6.jpg)
 
 ピンクのマジョリティ争いに負けないようにピンクの地区の品物をゲットしていくぞ！
 
@@ -87,7 +87,7 @@ UseHugoToc: true
 
 **ラウンド３、リソースをゲットできず、ペナルティをくらう**
 
-![ペナルティ](./images/amsterdamp7.jpg)
+![ペナルティ](/images/amsterdamp7.jpg)
 
 ５とか６のサイコロばっか選ぶとあとはいいけど序盤がしんどいですね。
 
@@ -99,7 +99,7 @@ UseHugoToc: true
 
 **ラウンド６、勝負のラウンドだったが。。**
 
-![ラウンド６](./images/amsterdamp8.jpg)
+![ラウンド６](/images/amsterdamp8.jpg)
 
 勝負のラウンド６！！ラウンド１からためていたキューブを一気に放出していろんなアクションをしていくぞ
 
@@ -115,7 +115,7 @@ UseHugoToc: true
 
 **ラウンド９、キューブもいっぱいあってアクションしまくり！**
 
-![ラウンド９](./images/amsterdamp9.jpg)
+![ラウンド９](/images/amsterdamp9.jpg)
 
 このゲーム、後半につれて、キューブに余裕が出てきて、やることがたくさん増えてくる。
 
@@ -129,7 +129,7 @@ UseHugoToc: true
 
 ###　１２ラウンド終わり！！得点計算！！！
 
-![最終プレイヤーボード](./images/amsterdamp10.jpg)
+![最終プレイヤーボード](/images/amsterdamp10.jpg)
 
 プレイヤーボードはこんな感じ、カードが多すぎてどんな効果があったか忘れてしまう。
 
@@ -137,7 +137,7 @@ UseHugoToc: true
 
 今回全部のカードを活性化できたので、ペナルティ無し！そこまで大変ではなかった。
 
-![最終得点](./images/amsterdamp11.jpg)
+![最終得点](/images/amsterdamp11.jpg)
 
 最終得点は、今までの点数からペナルティのマイナスを引くぞ。
 

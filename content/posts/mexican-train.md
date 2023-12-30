@@ -12,20 +12,20 @@ UseHugoToc: true
 
 リゴレのドミノにはトレインハブがついてる！しっかりした材質、見てるだけで嬉しい
 
-![mexicantrain](./images/mexicantrain1.jpg)
+![mexicantrain](/images/mexicantrain1.jpg)
 
 
 自分の列車の線路をどんどん伸ばしていくよ。だけど、一つの線路だけじゃすぐに出せなくなっちゃう。
 
 だから共通の線路、メキシカントレインを使うよ！
 
-![mexicantrain2](./images/mexicantrain2.jpg)
+![mexicantrain2](/images/mexicantrain2.jpg)
 
 自分の線路が伸びると気持ちが良いね！
 
 トレインハブがきれいにハマって嬉しいぞ
 
-![mexicantrain3](./images/mexicantrain3.jpg)
+![mexicantrain3](/images/mexicantrain3.jpg)
 
 ダブルのタイルはダブルの効果で連続でドミノをおける！これで相手と差をつけるぞ
 
@@ -33,7 +33,7 @@ UseHugoToc: true
 
 出せるドミノがないと山札から手札が増えてしまうし線路がオープンという状態になってしまう
 
-![mexicantrain4](./images/mexicantrain4.jpg)
+![mexicantrain4](/images/mexicantrain4.jpg)
 
 オープンした線路は相手も出すことができてしまい、選択肢を増やしてしまう。
 
@@ -41,7 +41,7 @@ UseHugoToc: true
 
 一度オープン状態になってしまうと全然出せなくなってしまうので、とてもつらい。。。
 
-![mexicantrain5](./images/mexicantrain5.jpg)
+![mexicantrain5](/images/mexicantrain5.jpg)
 
 最終ラウンド、早々にオープンした線路がクローズできず、負け
 

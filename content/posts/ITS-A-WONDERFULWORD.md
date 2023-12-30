@@ -13,12 +13,12 @@ UseHugoToc: true
 ドラフトして建築したりリサイクルしたり資源を産み出したり帝国を発展させよう
 
 ITS A WONDERFULWORD
-![its_a_wonder](./images/its_a_wonder.jpg)
+![its_a_wonder](/images/its_a_wonder.jpg)
 
 ラウンドの流れ　３つのフェイズに別れています
 
 １ドラフトフェイズ
-![its_a_wonder1](./images/its_a_wonder1.jpg)
+![its_a_wonder1](/images/its_a_wonder1.jpg)
 
 
 自分が建築したいものや、リサイクルして生み出される資源を選ぼう
@@ -26,13 +26,13 @@ ITS A WONDERFULWORD
 
 ２計画フェイズ
 
-![its_a_wonder2](./images/its_a_wonder2.jpg)
+![its_a_wonder2](/images/its_a_wonder2.jpg)
 
 ここは各々勝手にやる。みんなで同時にやれるからダウンタイムがなくて素晴らしい
 
 ３製造フェイズ
 
-![its_a_wonder3](./images/its_a_wonder3.jpg)
+![its_a_wonder3](/images/its_a_wonder3.jpg)
 
 
 建材から順に資源を産出します

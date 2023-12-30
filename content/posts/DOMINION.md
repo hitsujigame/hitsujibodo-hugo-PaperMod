@@ -12,7 +12,7 @@ UseHugoToc: true
 
 君には野心がある。王国をもっと大きく、もっと素敵にしたい。
 
-![DOMINION1](./images/DOMINION1.jpg)
+![DOMINION1](/images/DOMINION1.jpg)
 
 デッキ構築といえばドミニオン！
 
@@ -32,7 +32,7 @@ UseHugoToc: true
 
 ドミニオン基本セット！
 
-![DOMINION2](./images/DOMINION2.jpg)
+![DOMINION2](/images/DOMINION2.jpg)
 
 最初に屋敷３枚、銅貨７枚を持ってスタートする。
 
@@ -46,7 +46,7 @@ UseHugoToc: true
 
 最後に王国カード。ドミニオンがドミニオンたる所以のもの。コンボが楽しい。
 
-![DOMINION3](./images/DOMINION3.jpg)
+![DOMINION3](/images/DOMINION3.jpg)
 
 
 これが全体図のサプライ、カードの他には廃棄置き場マット。
@@ -65,7 +65,7 @@ UseHugoToc: true
 
 しかし、発生してしまうのが、妖怪１足りない。属州を勝つための１金が足りないのよ。。。
 
-![DOMINION4](./images/DOMINION4.jpg)
+![DOMINION4](/images/DOMINION4.jpg)
 
 コンボが上手く決まらず、１回戦は負け。
 
@@ -75,7 +75,7 @@ UseHugoToc: true
 
 １回戦は村鍛冶に、役人と山賊が幅を広げる王国となった。
 
-![DOMINION5](./images/DOMINION5.jpg)
+![DOMINION5](/images/DOMINION5.jpg)
 
 自分のターンになったら。山札から５枚引く。２つのフェイズを行う。
 
@@ -87,7 +87,7 @@ UseHugoToc: true
 
 山札、手札、捨て札など自分の場を整理して出そう。
 
-![DOMINION6](./images/DOMINION6.jpg)
+![DOMINION6](/images/DOMINION6.jpg)
 
 ２回戦は改築金貨コンボ。手早く属州を狙っていくぞ。
 
@@ -97,13 +97,13 @@ UseHugoToc: true
 
 ３山切れでゲームを終わらせる。
 
-![DOMINION7](./images/DOMINION7.jpg)
+![DOMINION7](/images/DOMINION7.jpg)
 
 職人と改築で王国のアップデートを図り、衛兵一人だけでたくさんの村を仕切る。そんな王国。
 
 この戦法がまぁまぁよかったのでラストの３回戦目では、市場を入れて一気に３山切れを目指す。
 
-![DOMINION8](./images/DOMINION8.jpg)
+![DOMINION8](/images/DOMINION8.jpg)
 
 職人と改築さらに市場で賑わいを見せる王国。それを見守る衛兵。相手に属州を買われて終わったが
 

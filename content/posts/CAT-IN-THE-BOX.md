@@ -15,7 +15,7 @@ UseHugoToc: true
 
 ## 量子系トリックテイキング　さぁ実験を始めよう
 
-![タイトル](./images/catbox1.jpg)
+![タイトル](/images/catbox1.jpg)
 
 猫かわいい。黒猫の絵が素敵すぎる。
 
@@ -25,7 +25,7 @@ UseHugoToc: true
 
 コンポーネントも素敵よね。
 
-![ゲーム板](./images/catbox2.jpg)
+![ゲーム板](/images/catbox2.jpg)
 
 **全てに無駄のない完璧なコンポーネント**
 
@@ -43,7 +43,7 @@ UseHugoToc: true
 
 どの色をだしたかなどわかりやすくできている。いいね。
 
-![色の観測](./images/catbox3.jpg)
+![色の観測](/images/catbox3.jpg)
 
 **色の観測、量子力学で観測は大事なテーマ**
 
@@ -63,7 +63,7 @@ UseHugoToc: true
 
 赤は最強で、青、黄色、緑に勝つことができる。
 
-![得点ボーナス](./images/catbox4.jpg)
+![得点ボーナス](/images/catbox4.jpg)
 
 **勝利予測が当たったらボーナス点。パラドックスを起こすとマイナス点**
 
@@ -77,7 +77,7 @@ UseHugoToc: true
 
 これを人数分行う。
 
-![２人戦ルール](./images/catbox5.jpg)
+![２人戦ルール](/images/catbox5.jpg)
 
 **2人で実験スタート。追加ルールがあるよ**
 
@@ -87,13 +87,13 @@ UseHugoToc: true
 
 カードは１から５まででとてもコンパクト。
 
-![２人戦１回目](./images/catbox6.jpg)
+![２人戦１回目](/images/catbox6.jpg)
 
 順調な出だし、特にパラドックスも起こる印象はなく。淡々とプレイすることができた。
 
 ２人共に４勝し、ボーナスを獲得。一回戦目は８対９
 
-![２人戦２回め](./images/catbox7.jpg)
+![２人戦２回め](/images/catbox7.jpg)
 
 ２回戦目は相手に勝たせてしまおう作戦でやってみた。
 
@@ -103,7 +103,7 @@ UseHugoToc: true
 
 **感想**
 
-![パラドックス](./images/catbox8.jpg)
+![パラドックス](/images/catbox8.jpg)
 
 ２人だと淡々とプレイすることになり、盛り上がりにかけるものの、
 

@@ -12,7 +12,7 @@ UseHugoToc: true
 
 とってもシンプル！駆け引き楽しい！何度もあそびたくなっちゃう！
 
-![domino](./images/domino.jpg)
+![domino](/images/domino.jpg)
 
 
 ドミノの質感が素晴らしく、満足度が高い
@@ -22,7 +22,7 @@ UseHugoToc: true
 つまりマイナス点がどんどん増えていきます。
 
 チキンフット
-![domino_playing](./images/domino_2.jpg)
+![domino_playing](/images/domino_2.jpg)
 
 最初に遊ぶときはチキンフットがおすすめ
 
@@ -30,11 +30,11 @@ UseHugoToc: true
 
 チキンの呪いや
 
-![domino3](./images/domino_3.jpg)
+![domino3](/images/domino_3.jpg)
 
 マイナス５０点の０のダブルがゲームを面白くします。
 
-![domino4](./images/domino_4.jpg)
+![domino4](/images/domino_4.jpg)
 
 最初はぎこちないプレイも１０ラウンドしていくとポンポンとプレイでき、読み合いが癖になります。
 
@@ -44,4 +44,4 @@ UseHugoToc: true
 
 あと得点計算はテンデイズコインがおすすめでした。
 
-![domino5](./images/domino_5.jpg)
+![domino5](/images/domino_5.jpg)

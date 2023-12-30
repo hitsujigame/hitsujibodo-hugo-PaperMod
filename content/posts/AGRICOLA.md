@@ -12,7 +12,7 @@ UseHugoToc: true
 
 １７世紀：農民にとって厳しかった時代…
 
-![AGRICOLA](./images/AGRICOLA1.jpg)
+![AGRICOLA](/images/AGRICOLA1.jpg)
 
 ウヴェさんの名作、アグリコラ！
 
@@ -22,10 +22,10 @@ UseHugoToc: true
 
 職業と進歩だろう
 
-![小さな進歩](./images/小さな進歩.jpg)
+![小さな進歩](/images/小さな進歩.jpg)
 
 
-![職業](./images/職業.jpg)
+![職業](/images/職業.jpg)
 
 
 この２つがあることで最初の指針が決まる。
@@ -39,13 +39,13 @@ UseHugoToc: true
 
 全体図はこれ
 
-![AGRICOLA2](./images/AGRICOLA2.jpg)
+![AGRICOLA2](/images/AGRICOLA2.jpg)
 
 
 ここから資源が増えていったり、ワーカーを派遣していって素敵な農場を作っていく
 
 
-![AGRICOLA3](./images/AGRICOLA3.jpg)
+![AGRICOLA3](/images/AGRICOLA3.jpg)
 
 
 木が6個になってたり、レンガが３こになってたりすると欲しくなっちゃう。
@@ -57,7 +57,7 @@ UseHugoToc: true
 
 食料供給フェイズ、、、ご飯を食べさせないとね
 
-![AGRICOLA4](./images/AGRICOLA4.jpg)
+![AGRICOLA4](/images/AGRICOLA4.jpg)
 
 
 ワーカー、一人につき2食料必要で足りない食料分物乞いしちゃう
@@ -66,7 +66,7 @@ UseHugoToc: true
 
 
 最終的な得点はこれ
-![AGRICOLA5](./images/AGRICOLA5.jpg)
+![AGRICOLA5](/images/AGRICOLA5.jpg)
 
 幅広く、なんでもそろえている農場が強いのかなぁという印象。。
 
@@ -74,7 +74,7 @@ UseHugoToc: true
 
 
 今回のプレイではこんな牧場になった
-![AGRICOLA6](./images/AGRICOLA6.jpg)
+![AGRICOLA6](/images/AGRICOLA6.jpg)
 
 鋤手助手を使って、序盤に畑を耕しまくり、小麦と野菜をマキマキ
 

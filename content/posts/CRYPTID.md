@@ -15,7 +15,7 @@ UseHugoToc: true
 
 ## クリプティッド　未確認動物を見つけよう
 
-![タイトル](./images/cryptid1.jpg)
+![タイトル](/images/cryptid1.jpg)
 
 クリプティッド（未確認動物）とは、目撃情報や噂などから存在が主張されていながら、実際には確認されていない動物を言う。
 
@@ -23,7 +23,7 @@ UseHugoToc: true
 
 他の人を出し抜き、未確認動物の第一発見者になろう。
 
-![地図](./images/cryptid2.jpg)
+![地図](/images/cryptid2.jpg)
 
 ＊適当に地図をつくっています。
 
@@ -43,7 +43,7 @@ UseHugoToc: true
 
 どうやったらこんなことができるのかしら。天才すぎる。
 
-![文献](./images/cryptid3.jpg)
+![文献](/images/cryptid3.jpg)
 
 地図が出来上がったらそれぞれにキューブとディスク、文献が渡される（二人の時は２冊もらえる）。
 
@@ -55,7 +55,7 @@ UseHugoToc: true
 
 読み取ったと思っていてもなかなか正解が見つからない。**それがクリプティッド**
 
-![キューブとディスク](./images/cryptid4.jpg)
+![キューブとディスク](/images/cryptid4.jpg)
 
 できることは**質問と探索だ**
 
@@ -81,7 +81,7 @@ UseHugoToc: true
 
 違っていたら「違うよキューブ」を置かれる。残念。「ごめんなさいキューブ」でお返ししましょう。
 
-![正解](./images/cryptid5.jpg)
+![正解](/images/cryptid5.jpg)
 
 ＊適当にディスクキューブ地図となっています。
 

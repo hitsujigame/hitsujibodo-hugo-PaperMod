@@ -15,7 +15,7 @@ UseHugoToc: true
 
 ## ついに来たフェルトのシティコネクション「アムステルダム！！」
 
-![タイトル](./images/amsterdam1.jpg)
+![タイトル](/images/amsterdam1.jpg)
 
 **アムステルダムの開封**
 
@@ -29,7 +29,7 @@ UseHugoToc: true
 
 **デラックス版だからトレイがかっこいい**
 
-![トレイ](./images/amsterdam2.jpg)
+![トレイ](/images/amsterdam2.jpg)
 
 〜高級感あふれるトレイ！デラックス版にしてよかったなぁと思える〜
 
@@ -40,7 +40,7 @@ UseHugoToc: true
 
 **プレイヤーボードとカード置き場など**
 
-![プレイヤーボード](./images/amsterdam3.jpg)
+![プレイヤーボード](/images/amsterdam3.jpg)
 
 プレイヤーボードは赤、青、黄色、緑の４色。どれもきれい！
 
@@ -56,7 +56,7 @@ UseHugoToc: true
 
 **ロンデル**
 
-![ロンデル](./images/amsterdam4.jpg)
+![ロンデル](/images/amsterdam4.jpg)
 
 このゲームの特徴の一つ「ロンデル」は４色ある！
 
@@ -66,7 +66,7 @@ UseHugoToc: true
 
 **タイル**
 
-![タイル](./images/amsterdam5.jpg)
+![タイル](/images/amsterdam5.jpg)
 
 タイルはすでにくり抜いてあって嬉しい。
 
@@ -78,9 +78,9 @@ UseHugoToc: true
 
 **ルールブック**
 
-![ルールブック](./images/amsterdam6.jpg)
+![ルールブック](/images/amsterdam6.jpg)
 
-![片付け方](./images/amsterdam7.jpg)
+![片付け方](/images/amsterdam7.jpg)
 
 ルールブックとアイコンの説明。もちろん英語
 
@@ -90,7 +90,7 @@ UseHugoToc: true
 
 **ゲームボード**
 
-![ゲームボード](./images/amsterdam8.jpg)
+![ゲームボード](/images/amsterdam8.jpg)
 
 ４つ折りのボード
 
@@ -102,7 +102,7 @@ UseHugoToc: true
 
 **建物カード、人物カードなど**
 
-![カード](./images/amsterdam9.jpg)
+![カード](/images/amsterdam9.jpg)
 
 人物カードや建物カード、マップカードはアイコンが描かれており、言語依存はないはず。
 
@@ -112,17 +112,17 @@ UseHugoToc: true
 
 おまけでついてきたフェルトのゲームカードも面白い！
 
-![おまけカード](./images/amsterdam10.jpg)
+![おまけカード](/images/amsterdam10.jpg)
 
 ###アドオンのメタルコイン！！！
 
-![メタルコイン](./images/amsterdam11.jpg)
+![メタルコイン](/images/amsterdam11.jpg)
 
 今回はアドオンでメタルコインも買ったぞ
 
 フェルトの横顔が素敵！
 
-![メタルコイン2](./images/amsterdam12.jpg)
+![メタルコイン2](/images/amsterdam12.jpg)
 
 コインのさわり心地はまずまず。
 
@@ -130,7 +130,7 @@ UseHugoToc: true
 
 **ありがとうフェルト！**
 
-![フェルト](./images/amsterdam13.jpg)
+![フェルト](/images/amsterdam13.jpg)
 
 ありがとうフェルト！頑張ってルールを確認し、遊んでみよう！
 

@@ -15,7 +15,7 @@ UseHugoToc: true
 
 ## ピースじゃらじゃら、パズル楽しい
 
-![タイトル](./images/projectl1.jpg)
+![タイトル](/images/projectl1.jpg)
 
 黒くてクールなパズル、それがプロジェクトＬ！
 
@@ -25,7 +25,7 @@ UseHugoToc: true
 
 レッツ！プロジェクトＬ
 
-![盤面](./images/projectl2.jpg)
+![盤面](/images/projectl2.jpg)
 
 **盤面はシンプル！準備が楽ですぐ遊べる**
 
@@ -39,7 +39,7 @@ UseHugoToc: true
 
 たったこれだけ！シンプル！簡単！
 
-![マスターアクション](./images/projectl3.jpg)
+![マスターアクション](/images/projectl3.jpg)
 
 **１手番３回のアクションのうち１回はやりたいマスターアクション！！**
 
@@ -77,7 +77,7 @@ UseHugoToc: true
 
 すんごく強い。毎回マスターアクションできるようにしたい。
 
-![ゲームの終了](./images/projectl4.jpg)
+![ゲームの終了](/images/projectl4.jpg)
 
 パズルを完成すると、報酬として右上に書かれたピースを受け取れる。
 

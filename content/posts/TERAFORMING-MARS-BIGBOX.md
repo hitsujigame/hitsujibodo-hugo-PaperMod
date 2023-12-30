@@ -12,7 +12,7 @@ UseHugoToc: true
 
 ~火星地球化計画~！ロマンはここにある！
 
-![TERRAFO1](./images/TERRAFO1.jpg)
+![TERRAFO1](/images/TERRAFO1.jpg)
 
 ロマン爆発のテラフォーミング・マーズ
 
@@ -20,7 +20,7 @@ UseHugoToc: true
 
 ３Dタイルにこそボドゲーマが求めるリアルがそこにある。
 
-![TERRAFO2](./images/TERRAFO2.jpg)
+![TERRAFO2](/images/TERRAFO2.jpg)
 
 緑地タイルはそれぞれ若干の違いがあり盤面がいい。
 
@@ -29,7 +29,7 @@ UseHugoToc: true
 
 特殊タイルはすべてユニーク。ワクワクするね！
 
-![TERRAFO3](./images/TERRAFO3.jpg)
+![TERRAFO3](/images/TERRAFO3.jpg)
 
 テラフォの何が良いってゲームとテーマがうまくマッチしているというところ。
 
@@ -43,7 +43,7 @@ UseHugoToc: true
 
 今回は３ｄボックスで増えた企業　〜ASTRODRILL・アストロドリル〜　で戦うよ
 
-![TERRAFO4](./images/TERRAFO4.jpg)
+![TERRAFO4](/images/TERRAFO4.jpg)
 
 小惑星に目をつけたこの企業は、小惑星を粉砕してさまざまな鉱物を抽出している。
 
@@ -51,7 +51,7 @@ UseHugoToc: true
 
 相手は~SATURN SYSTEMS・サターンシステム~
 
-![TERRAFO5](./images/TERRAFO5.jpg)
+![TERRAFO5](/images/TERRAFO5.jpg)
 
 土星の採掘権を所有している企業、土星なのに木星タグのカードプレイするとお金が上がるよ
 
@@ -69,7 +69,7 @@ UseHugoToc: true
 
 相手にダイモスを落とされ、植物をことごとく燃やされてしまう。
 
-![TERRAFO6](./images/TERRAFO6.jpg)
+![TERRAFO6](/images/TERRAFO6.jpg)
 
 最終盤面
 
@@ -77,7 +77,7 @@ UseHugoToc: true
 
 こちらは（青）、序盤に称号の総督、緑化匠を取って、なかなかいい勝負に
 
-![TERRAFO7](./images/TERRAFO7.jpg)
+![TERRAFO7](/images/TERRAFO7.jpg)
 
 最終的なプレイカードの配置
 
@@ -87,13 +87,13 @@ UseHugoToc: true
 
 はたして勝敗は。。。
 
-![TERRAFO8](./images/TERRAFO8.jpg)
+![TERRAFO8](/images/TERRAFO8.jpg)
 
 114対115で負けたー
 
 １点差！いい勝負だった。
 
-![TERRAFO9](./images/TERRAFO9.jpg)
+![TERRAFO9](/images/TERRAFO9.jpg)
 
 負けたけど拡張で増えたカードアクションできたので満足！（ダムと地場発生装置が逆ですね。。）
 

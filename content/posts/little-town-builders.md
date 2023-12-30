@@ -15,7 +15,7 @@ UseHugoToc: true
 
 ## 気楽にワーカープレイスメント！猫かわいい 
 
-![タイトル](./images/littletb1.jpg)
+![タイトル](/images/littletb1.jpg)
 
 シンプルなワーカープレイスメント！
 
@@ -25,7 +25,7 @@ UseHugoToc: true
 
 ワカプレ要素盛りだくさん！
 
-![ゲーム板](./images/littletb2.jpg)
+![ゲーム板](/images/littletb2.jpg)
 
 **シンプルな盤面、トークンもかわいい**
 
@@ -51,7 +51,7 @@ UseHugoToc: true
 
 猫ちゃんを働かせよう！
 
-![労働](./images/littletb3.jpg)
+![労働](/images/littletb3.jpg)
 
 **労働**
 
@@ -65,7 +65,7 @@ UseHugoToc: true
 
 相手と一緒にゲームをしているなぁという感じがするのがとても良い。
 
-![建築](./images/littletb4.jpg)
+![建築](/images/littletb4.jpg)
 
 **建築**
 
@@ -78,7 +78,7 @@ UseHugoToc: true
 なかなかクセのある建物も多いので初めてでは鳥マークの付いたタイルを使うのが良い。
 
 
-![２ラウンド](./images/littletb5.jpg)
+![２ラウンド](/images/littletb5.jpg)
 
 自分黒、相手赤の二人で対戦するよ！
 
@@ -90,7 +90,7 @@ UseHugoToc: true
 
 黒は真ん中、赤は、端にと住み分けさせた。
 
-![3ラウンド](./images/littletb6.jpg)
+![3ラウンド](/images/littletb6.jpg)
 
 第３ラウンド、完全に黒が真ん中を支配。赤が端を支配する形に。
 
@@ -100,7 +100,7 @@ UseHugoToc: true
 
 取り敢えず物見櫓を作ろうとする。
 
-![最終結果](./images/littletb7.jpg)
+![最終結果](/images/littletb7.jpg)
 
 最終結果。５４対６７で負け。
 

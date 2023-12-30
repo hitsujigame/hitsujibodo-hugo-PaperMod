@@ -15,7 +15,7 @@ UseHugoToc: true
 
 ## 至高の元首トラヤヌス帝が統治するローマ帝国
 
-![タイトル](./images/trajan1.jpg)
+![タイトル](/images/trajan1.jpg)
 
 **トラヤヌスの世界観**
 
@@ -31,7 +31,7 @@ UseHugoToc: true
 
 **元老院アクション**
 
-![元老院](./images/trajan2.jpg)
+![元老院](/images/trajan2.jpg)
 
 〜元老院とは王の助言機関、外交や財政など決定権を掌握している偉い人。そんな偉い人に挨拶しに行くよ。〜
 
@@ -47,7 +47,7 @@ UseHugoToc: true
 
 **トラヤヌスアクション**
 
-![トラヤヌス](./images/trajan3.jpg)
+![トラヤヌス](/images/trajan3.jpg)
 
 トラヤヌスはタギアとパルティアで功績をあげ、ローマ史上最大の領土を広げた。
 
@@ -63,7 +63,7 @@ UseHugoToc: true
 
 **海港アクション**
 
-![海港](./images/trajan4.jpg)
+![海港](/images/trajan4.jpg)
 
 ローマ時代でも外交は盛んに行われており、オスティア港はトラヤヌスが拡張をしている。
 
@@ -73,7 +73,7 @@ UseHugoToc: true
 
 **軍事アクション**
 
-![軍事アクション](./images/trajan5.jpg)
+![軍事アクション](/images/trajan5.jpg)
 
 執政官になると戦時中、軍団を組織する最高指揮官として軍務を掌握できた。（インペリウム）
 
@@ -88,7 +88,7 @@ UseHugoToc: true
 
 **フォルムアクション**
 
-![フォルム](./images/trajan6.jpg)
+![フォルム](/images/trajan6.jpg)
 
 フォルムとはローマの公共広場のことを言う。オープンスペースで、とても広く四方には元老院や、浴場、神殿などがあった。
 
@@ -117,7 +117,7 @@ UseHugoToc: true
 
 **建築アクション**
 
-![建築](./images/trajan7.jpg)
+![建築](/images/trajan7.jpg)
 
 最後に建築アクション、追加アクションと終了時の得点追加要素。この追加得点がまぁでかい。
 
@@ -154,7 +154,7 @@ UseHugoToc: true
 
 マンカラ楽しい！
 
-![マンカラ](./images/trajan8.jpg)
+![マンカラ](/images/trajan8.jpg)
 
 **ラウンド終了時の処理**
 
@@ -173,7 +173,7 @@ UseHugoToc: true
 
 すごい好き。
 
-![１ゲーム](./images/trajan9.jpg)
+![１ゲーム](/images/trajan9.jpg)
 
 ２回二人で遊んでみた。
 
@@ -181,7 +181,7 @@ UseHugoToc: true
 
 相手は元老院での得点稼ぎ、自分は建築をメインに戦った。
 
-![２ゲーム](./images/trajan10.jpg)
+![２ゲーム](/images/trajan10.jpg)
 
 次のゲームでは９２対５５で勝利！
 

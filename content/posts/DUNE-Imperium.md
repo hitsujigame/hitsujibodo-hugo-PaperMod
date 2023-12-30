@@ -15,7 +15,7 @@ UseHugoToc: true
 
 ## DUNEの世界観
 
-![タイトル](./images/DUNE1.jpg)
+![タイトル](/images/DUNE1.jpg)
 
 アラキスを舞台にメランジと呼ばれるスパイスの獲得や支配を目指す。
 
@@ -31,7 +31,7 @@ UseHugoToc: true
 
 **４つの公家と指揮官**
 
-![公家アトレイデ](./images/DUNE2.jpg)
+![公家アトレイデ](/images/DUNE2.jpg)
 
 公家アトレイデの血筋は由緒正しく、正義と高潔をもって知られている。
 
@@ -55,7 +55,7 @@ UseHugoToc: true
 
 アトレイデ家は力があるので、皇帝から危険視されてしまっているので色々大変。
 
-![公家ハルコンネン](./images/DUNE3.jpg)
+![公家ハルコンネン](/images/DUNE3.jpg)
 
 わかりやすく敵。人間狩りなど悪徳非道をしている。
 
@@ -65,7 +65,7 @@ UseHugoToc: true
 
 ラッパンはザ・ビーストですね。ウラディミールの甥だそうです。めっちゃ暴れる
 
-![公家リチェス、トールヴァルド](./images/DUNE4.jpg)
+![公家リチェス、トールヴァルド](/images/DUNE4.jpg)
 
 映画では出てこないのでいまいちわからない公家
 
@@ -85,7 +85,7 @@ UseHugoToc: true
 
 **４大派閥**
 
-![４大派閥](./images/DUNE5.jpg)
+![４大派閥](/images/DUNE5.jpg)
 
 まずは **フレーメン**。アラキスの先住民族。
 
@@ -120,7 +120,7 @@ UseHugoToc: true
 ### ゲームのプレイ感
 
 **初期デッキ**
-![初期デッキ](./images/DUNE6.jpg)
+![初期デッキ](/images/DUNE6.jpg)
 
 初期デッキは決まっていて
 
@@ -176,7 +176,7 @@ UseHugoToc: true
 
 **１回戦目**
 
-![1回戦](./images/DUNE7.jpg)
+![1回戦](/images/DUNE7.jpg)
 
 メムノンでプレイ
 
@@ -188,7 +188,7 @@ UseHugoToc: true
 
 **２回戦目**
 
-![２回戦](./images/DUNE8.jpg)
+![２回戦](/images/DUNE8.jpg)
 
 イルバンでプレイ
 

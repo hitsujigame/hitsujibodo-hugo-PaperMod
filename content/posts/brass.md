@@ -12,7 +12,7 @@ UseHugoToc: true
 
 産業革命のさなか
 
-![brass](./images/brass1.jpg)
+![brass](/images/brass1.jpg)
 
 マーティン・ワレスの傑作
 
@@ -33,11 +33,11 @@ UseHugoToc: true
 このゲーム建築がものすごく分かりづらい
 
 
-![brass2](./images/brass2.jpg)
+![brass2](/images/brass2.jpg)
 
 都市カードではその都市に建てたいものが建てられる。（炭とか鉄とか必要）
 
-![brass3](./images/brass3.jpg)
+![brass3](/images/brass3.jpg)
 
 産業カードでは自分のネットワーク内にある都市でないとだめとか
 

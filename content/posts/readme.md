@@ -11,7 +11,7 @@ ShowPostNavLinks: true
 UseHugoToc: true
 description: "このサイトについて"
 cover:
-    image: "banner.jpg" # image path/url
+    image: "./images/banner.jpg" # image path/url
     alt: "カバー画像" # alt text
 ---
 
